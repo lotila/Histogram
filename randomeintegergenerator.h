@@ -7,7 +7,7 @@
 namespace Hist
 {
 
-class RandomEintegerGenerator //    : public RandomEintegerGeneratorBase
+class RandomEintegerGenerator : public RandomEintegerGeneratorBase
 {
 public:
     RandomEintegerGenerator();
